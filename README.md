@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LucasOliveira-M
-- 👀 I’m interested in nerds stuffs, news technologies, literature, cinema and music. 
-- 🌱 I’m currently learning python and javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me lucas.oliveira.m.p1973@gmail.com
+-  Hi, I’m @LucasOliveira-M
+-  I’m interested in nerds stuffs, news technologies, literature, cinema and music. 
+- I'm majoring in business administration.
+- I’m currently learning javascript, htm and css. .
+- 📫 You can reach me on lucas.oliveira.m.p1973@gmail.com
 
 <!---
 LucasOliveira-M/LucasOliveira-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
