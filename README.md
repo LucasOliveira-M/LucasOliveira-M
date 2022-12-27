@@ -1,7 +1,7 @@
 -  Hi, I’m @LucasOliveira-M
 -  I’m interested in nerds stuffs, news technologies, literature, cinema and music. 
 - I'm majoring in business administration.
-- I’m currently learning javascript, htm and css. 
+- I’m currently learning javascript, html and css. 
 - 📫 You can reach me on lucas.oliveira.m.p1973@gmail.com
 
 <!---
